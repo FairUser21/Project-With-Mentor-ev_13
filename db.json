@@ -56,5 +56,27 @@
       "image": "ivy",
       "id": 10
     }
+  ],
+  "users": [
+    {
+      "username": "collapse",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "awe",
+      "password": "awe",
+      "id": 2
+    },
+    {
+      "username": "awe1",
+      "password": "awe1",
+      "id": 3
+    },
+    {
+      "username": "aweawe",
+      "password": "aweawe",
+      "id": 4
+    }
   ]
 }
